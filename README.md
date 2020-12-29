@@ -8,6 +8,8 @@
 - Save to CreamAPI ini file
 - Save to SmartSteamEmu ini file
 - Can selective DLC's to save
+- Language System
+- Autosearch AppID with game name
 
 
 # [ Preview ]
