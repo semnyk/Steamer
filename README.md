@@ -14,7 +14,7 @@
 
 # [ Preview ]
 ### !!UPDATE 0.1.5!!
-![img3](https://raw.githubusercontent.com/semnyk/Steamer/main/image/Image2.PNG)
+![img3](https://raw.githubusercontent.com/semnyk/Steamer/main/image/Image3.PNG)
 
 ![img1](https://raw.githubusercontent.com/semnyk/Steamer/main/image/Image1.PNG)
 
